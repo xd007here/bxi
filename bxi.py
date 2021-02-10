@@ -29,16 +29,13 @@ logo='''
 
 --------------------------------------------------
 
- Auther   : Binyamin
- GitHub   : https://github.com/binyamin-binni
- YouTube  : Trick Proof
- Blogspot : https://trickproof.blogspot.com
+ Auther   : CRACKER_FOR_KURDISH
 
 --------------------------------------------------
                                 '''
 
-CorrectUsername = 'binyamin'
-CorrectPassword = 'bxi'
+CorrectUsername = 'CRACKER'
+CorrectPassword = 'KURDISH'
 
 loop = 'true'
 while (loop == 'true'):
